@@ -1,8 +1,4 @@
-"""
-Spark & database configuration for the Bus Delay & Route Risk Scoring project.
-Import from this module rather than hard-coding settings inline, per the brief's
-requirement to document SparkSession settings and connection strings in a config file.
-"""
+
 
 from pyspark.sql import SparkSession
 
