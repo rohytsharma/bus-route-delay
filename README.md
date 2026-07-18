@@ -163,9 +163,9 @@ See the accompanying report for full critical reflection.
 
 ## Author
 
-**[Your Name]** — [Your Student ID]
+**ROHIT SHARMA**
 Module: Big Data Programming Project (ST5011CEM)
-Supervisor: [Supervisor Name]
+
 
 ## License
 
