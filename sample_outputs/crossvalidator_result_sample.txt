@@ -1,0 +1,10 @@
+CrossValidator (3-fold) — Random Forest hyperparameter search
+Grid: numTrees in [20, 50], maxDepth in [5, 8]
+
+Best CV RMSE: 4.648
+Best numTrees: 50
+Best maxDepth: 8
+CV time: 149.9s
+
+Interpretation: the grid search confirmed the default configuration
+(50 trees, depth 8) as the best-performing combination among those tested.
