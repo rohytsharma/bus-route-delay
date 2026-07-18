@@ -1,0 +1,253 @@
+Dataset ID,Filename,Modification date,Revision number,Operation period start date,Operating period end date,Dated Vehicle Journey Ref,Line Name,Recorded at time,Journey Code,Operating Profile,Service Code
+17163,OXBC_N400_OXBCPH000572741N400_20260503_-_2350500.xml,2026-06-25T09:51:55+00:00,196,2026-05-03,-,4180,N400,2026-07-11T02:02:41+00:00,4180,"<OperatingProfile xmlns=""http://www.transxchange.org.uk/"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">
+        <RegularDayType>
+          <DaysOfWeek>
+            <Friday/>
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfOperation>
+            <ChristmasDay/>
+            <BoxingDay/>
+            <NewYearsDay/>
+            <ChristmasDayHoliday/>
+            <BoxingDayHoliday/>
+            <NewYearsDayHoliday/>
+            <ChristmasEve/>
+            <NewYearsEve/>
+          </DaysOfOperation>
+          <DaysOfNonOperation>
+            <GoodFriday/>
+            <LateSummerBankHolidayNotScotland/>
+            <MayDay/>
+            <EasterMonday/>
+            <SpringBank/>
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      
+",PH0005727:41
+17163,THTR_NX2_THTRPH000718497NX2_20260222_-_2310357.xml,2026-06-25T09:51:55+00:00,211,2026-02-22,-,4111,NX2,2026-07-11T03:00:42+00:00,4111,"<OperatingProfile xmlns=""http://www.transxchange.org.uk/"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">
+        <RegularDayType>
+          <DaysOfWeek>
+            <Friday/>
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfOperation>
+            <ChristmasDay/>
+            <BoxingDay/>
+            <ChristmasDayHoliday/>
+            <BoxingDayHoliday/>
+            <NewYearsDayHoliday/>
+            <ChristmasEve/>
+            <NewYearsEve/>
+          </DaysOfOperation>
+          <DaysOfNonOperation>
+            <GoodFriday/>
+            <NewYearsDay/>
+            <LateSummerBankHolidayNotScotland/>
+            <MayDay/>
+            <EasterMonday/>
+            <SpringBank/>
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      
+",PH0007184:97
+17163,THTR_NX40_THTRPH0007184166NX40_20260531_-_2374885.xml,2026-06-25T09:51:55+00:00,168,2026-05-31,-,4603,NX40,2026-07-11T02:27:44+00:00,4603,"<OperatingProfile xmlns=""http://www.transxchange.org.uk/"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">
+        <RegularDayType>
+          <DaysOfWeek>
+            <Friday/>
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfOperation>
+            <ChristmasDay/>
+            <BoxingDay/>
+            <ChristmasDayHoliday/>
+            <BoxingDayHoliday/>
+            <NewYearsDayHoliday/>
+            <ChristmasEve/>
+            <NewYearsEve/>
+          </DaysOfOperation>
+          <DaysOfNonOperation>
+            <GoodFriday/>
+            <NewYearsDay/>
+            <LateSummerBankHolidayNotScotland/>
+            <MayDay/>
+            <EasterMonday/>
+            <SpringBank/>
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      
+",PH0007184:166
+17163,THTR_NX40_THTRPH0007184166NX40_20260531_-_2374887.xml,2026-06-25T09:51:55+00:00,168,2026-05-31,-,5079,NX40,2026-07-12T02:14:21+00:00,5079,"<OperatingProfile xmlns=""http://www.transxchange.org.uk/"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday/>
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfOperation>
+            <ChristmasDay/>
+            <BoxingDay/>
+            <ChristmasDayHoliday/>
+            <BoxingDayHoliday/>
+            <NewYearsDayHoliday/>
+            <ChristmasEve/>
+            <NewYearsEve/>
+          </DaysOfOperation>
+          <DaysOfNonOperation>
+            <GoodFriday/>
+            <NewYearsDay/>
+            <LateSummerBankHolidayNotScotland/>
+            <MayDay/>
+            <EasterMonday/>
+            <SpringBank/>
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      
+",PH0007184:166
+17163,OXBC_NX1_OXBCPH000572785NX1_20260503_-_2350497.xml,2026-06-25T09:51:55+00:00,178,2026-05-03,-,5073,NX1,2026-07-12T02:28:44+00:00,5073,"<OperatingProfile xmlns=""http://www.transxchange.org.uk/"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday/>
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfOperation>
+            <ChristmasDay/>
+            <BoxingDay/>
+            <NewYearsDay/>
+            <ChristmasDayHoliday/>
+            <BoxingDayHoliday/>
+            <NewYearsDayHoliday/>
+            <ChristmasEve/>
+            <NewYearsEve/>
+          </DaysOfOperation>
+          <DaysOfNonOperation>
+            <GoodFriday/>
+            <LateSummerBankHolidayNotScotland/>
+            <MayDay/>
+            <EasterMonday/>
+            <SpringBank/>
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      
+",PH0005727:85
+17163,THTR_NX2_THTRPH000718497NX2_20260222_-_2310358.xml,2026-06-25T09:51:55+00:00,211,2026-02-22,-,5099,NX2,2026-07-12T02:12:06+00:00,5099,"<OperatingProfile xmlns=""http://www.transxchange.org.uk/"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday/>
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfOperation>
+            <ChristmasDay/>
+            <BoxingDay/>
+            <ChristmasDayHoliday/>
+            <BoxingDayHoliday/>
+            <NewYearsDayHoliday/>
+            <ChristmasEve/>
+            <NewYearsEve/>
+          </DaysOfOperation>
+          <DaysOfNonOperation>
+            <GoodFriday/>
+            <NewYearsDay/>
+            <LateSummerBankHolidayNotScotland/>
+            <MayDay/>
+            <EasterMonday/>
+            <SpringBank/>
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      
+",PH0007184:97
+17163,THTR_NX2_THTRPH000718497NX2_20260222_-_2310358.xml,2026-06-25T09:51:55+00:00,211,2026-02-22,-,5101,NX2,2026-07-12T03:37:44+00:00,5101,"<OperatingProfile xmlns=""http://www.transxchange.org.uk/"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday/>
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfOperation>
+            <ChristmasDay/>
+            <BoxingDay/>
+            <ChristmasDayHoliday/>
+            <BoxingDayHoliday/>
+            <NewYearsDayHoliday/>
+            <ChristmasEve/>
+            <NewYearsEve/>
+          </DaysOfOperation>
+          <DaysOfNonOperation>
+            <GoodFriday/>
+            <NewYearsDay/>
+            <LateSummerBankHolidayNotScotland/>
+            <MayDay/>
+            <EasterMonday/>
+            <SpringBank/>
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      
+",PH0007184:97
+17163,THTR_NX40_THTRPH0007184166NX40_20260531_-_2374887.xml,2026-06-25T09:51:55+00:00,168,2026-05-31,-,5081,NX40,2026-07-12T03:10:17+00:00,5081,"<OperatingProfile xmlns=""http://www.transxchange.org.uk/"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday/>
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfOperation>
+            <ChristmasDay/>
+            <BoxingDay/>
+            <ChristmasDayHoliday/>
+            <BoxingDayHoliday/>
+            <NewYearsDayHoliday/>
+            <ChristmasEve/>
+            <NewYearsEve/>
+          </DaysOfOperation>
+          <DaysOfNonOperation>
+            <GoodFriday/>
+            <NewYearsDay/>
+            <LateSummerBankHolidayNotScotland/>
+            <MayDay/>
+            <EasterMonday/>
+            <SpringBank/>
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      
+",PH0007184:166
+17163,OXBC_N400_OXBCPH000572741N400_20260503_-_2350501.xml,2026-06-25T09:51:55+00:00,196,2026-05-03,-,5168,N400,2026-07-12T02:05:08+00:00,5168,"<OperatingProfile xmlns=""http://www.transxchange.org.uk/"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday/>
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfOperation>
+            <ChristmasDay/>
+            <BoxingDay/>
+            <NewYearsDay/>
+            <ChristmasDayHoliday/>
+            <BoxingDayHoliday/>
+            <NewYearsDayHoliday/>
+            <ChristmasEve/>
+            <NewYearsEve/>
+          </DaysOfOperation>
+          <DaysOfNonOperation>
+            <GoodFriday/>
+            <LateSummerBankHolidayNotScotland/>
+            <MayDay/>
+            <EasterMonday/>
+            <SpringBank/>
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      
+",PH0005727:41

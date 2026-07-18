@@ -1,0 +1,9 @@
+SIRI field,TXC match field,Total vehicleActivities analysed,Total count of SIRI fields populated,%populated,Successful match with TXC,%match,Notes
+OperatorRef,NationalOperatorCode,2260,2260,100.0%,2260,100.0%,
+PublishedLineName,LineName,2260,2260,100.0%,2236,98.0%,
+DatedVehicleJourneyRef,TicketMachine/JourneyCode,2260,2260,100.0%,2236,98.0%,
+DestinationRef,JourneyPatternTimingLink/To/StopPointRef,2260,2260,100.0%,2232,98.0%,
+OriginRef,JourneyPatternTimingLink/from/StopPointRef,2260,2260,100.0%,2232,98.0%,
+DirectionRef,Direction,2260,2260,100.0%,2204,97.0%,
+BlockRef,BlockNumber,2260,2260,100.0%,0,0.0%,Enforcement agency may consider this data as a mandatory field if you are technologically enabled to generate it. Please work with your suppliers to ensure it is provided accurately
+Completely matched ALL elements with timetable data (excluding BlockRef),-,-,-,-,2204,97%,-
